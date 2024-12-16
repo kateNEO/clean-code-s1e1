@@ -21,7 +21,7 @@ body {
   .instruction { text-align: center;
 }
 }
-.centered-main-page-element {
+.new-task-header {
   display: block;
   width: 500px;
   margin: 0 auto 0;
